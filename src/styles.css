@@ -1,0 +1,43 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+.nav-link {
+  font-weight: 600;
+  /* height: 50px; */
+}
+
+.center {
+  justify-content: center;
+  text-align: center;
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+.margin-top-M {
+  margin-top: -30px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.btn-background:hover {
+  background-color: #e83350;
+  color: #fff;
+}
+
+.btn-background {
+  background-color: #616c6f;
+  color: #fff;
+}
