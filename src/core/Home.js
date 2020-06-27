@@ -31,7 +31,7 @@ function Home() {
   return (
     <Base title="Home Page" description="Welcome to the T-Shirt Store">
       <div className="row">
-        <h1 className="text-white">All of tshirts</h1>
+        <h1 className="text-white">Our Collection</h1>
         <div className="row">
           {products.map((product, index) => {
             return (
